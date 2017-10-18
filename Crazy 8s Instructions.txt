@@ -1,0 +1,13 @@
+Crazy 8s
+Aidan Perry
+
+Instructions:
+1. The dealer hands out 5 cards face down to each player one at a time then he places the next card face up on the center of the table.
+2. The person to the left of the deal then places a card from their hand of same suit or same domination.
+3. Suits are more common than denomination so you should place cards in same suit first.
+4. Value of the cards go as followed, eights are most valueable, face cards next, aces come after face cards, and other cards are least valuable. Play cards of least value first then higher value.
+5. The player who is the first to have no cards left wins the game. The winning player collects from each other player the value of the cards remaining in that player’s hand as follows:
+	Each eight = 50 points
+	Each K, Q, J or 10 = 10 points
+	Each ace = 1 point
+	Each other card is the pip value
