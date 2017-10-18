@@ -6,6 +6,16 @@ Instructions:
 2. The person to the left of the deal then places a card from their hand of same suit or same domination.
 3. Suits are more common than denomination so you should place cards in same suit first.
 4. Value of the cards go as followed, eights are most valueable, face cards next, aces come after face cards, and other cards are least valuable. Play cards of least value first then higher value.
+	4a Senerio 1: If a player places a 5 of hearts;
+		You should place a card of hearts first.
+	4b Senerio 2: If a player places a 5 of hearts and you dont have any hearts;
+		you then place a card of the same denomination.
+	4c Senerio 3: If a player places a 5 of hearts and you dont have any hearts or in the same denomination;
+		YOu should place a 8 if you have one and specify the suit.
+	4d Senerio 4: If you do not have anything to place on top of a 5 of hearts;
+		Then you draw cards from the deck untill you can play off of it.
+	4e Senerio 5: If the deck runs out of cards;
+		Then you pass onto the next player.
 5. The player who is the first to have no cards left wins the game. The winning player collects from each other player the value of the cards remaining in that player’s hand as follows:
 	Each eight = 50 points
 	Each K, Q, J or 10 = 10 points
