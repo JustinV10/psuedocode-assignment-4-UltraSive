@@ -21,3 +21,6 @@ Instructions:
 	Each K, Q, J or 10 = 10 points
 	Each ace = 1 point
 	Each other card is the pip value
+6. While (Someone has not won the game) {
+	continue playing
+}
